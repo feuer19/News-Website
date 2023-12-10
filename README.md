@@ -1,4 +1,4 @@
-# 🚩 News
+# 🚩 News Website
 
 <p align="center">
   <br>
